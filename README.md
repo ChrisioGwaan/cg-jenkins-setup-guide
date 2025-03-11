@@ -23,4 +23,4 @@ This repository provides a comprehensive guide to setting up Jenkins CI/CD platf
 * GitHub: ChrisioGwaan
 * Email: [chris322322@gmail.com](mailto:chris322322@gmail.com)
 
-© 2025 Your Name. All rights reserved.
+© 2025 Weixi (Chrisio) Guan. All rights reserved.
